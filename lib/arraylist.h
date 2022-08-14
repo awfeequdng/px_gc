@@ -1,5 +1,7 @@
 #ifndef ARRAYLIST_H
 #define ARRAYLIST_H
+#include <stddef.h>
+
 
 #define AL_N_INLINE 29
 

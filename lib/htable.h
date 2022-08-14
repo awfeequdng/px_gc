@@ -1,5 +1,6 @@
 #ifndef HTABLE_H
 #define HTABLE_H
+#include <stddef.h>
 
 #define HT_N_INLINE 32
 
